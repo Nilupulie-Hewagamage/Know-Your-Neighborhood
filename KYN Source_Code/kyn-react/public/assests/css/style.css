@@ -1,0 +1,51 @@
+#about {
+  position: relative;
+  margin-left: 200px;
+}
+
+.Aboutus {
+  color: rgb(33, 33, 39);
+  font-size: 20px;
+}
+
+.bg-img {
+  background-color: #8fc4b7;
+}
+
+.facebook {
+  margin-left: 130px;
+}
+
+col {
+  padding: 40px 0 0 30px;
+  background-color: white;
+}
+
+.navlink {
+  color: white;
+  text-decoration: none;
+}
+
+.submit {
+  color: white;
+  background-color: cornflowerblue;
+}
+
+#card {
+  width: 18rem;
+  margin: 20px;
+}
+
+.cardspan {
+  font-weight: bold;
+}
+
+.cardmain {
+  position: relative;
+  display: inline-flex;
+
+}
+
+#searchcard {
+  display: inline-block;
+}
