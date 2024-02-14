@@ -70,3 +70,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## * Project results
+
+#### Register Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/6c2563e9-1e06-45f8-b86a-ace880951a6c)
+
+#### Login Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/47d380c6-96a4-4ad7-95bf-79144aacca4a)
+
+#### About Us Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/9d74ea01-3beb-4973-91b5-90e648d6c512)
+
+#### Contact Us Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/4d187b6b-3617-441f-8000-6325ec5d4a9d)
+
+#### Terms and Conditions Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/7540e580-5ef1-4011-8fb4-5e47ceaed48d)
+
+#### Add Store Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/7e660406-882c-4360-bd33-c9f0b85d2879)
+
+#### View Store Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/1661fcdb-027d-4542-9408-25b9e2d68b14)
+
+#### Search Store Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/4abdbe43-e954-4b14-b78d-8a5aac0ebd2d)
+
+#### Facebook Page
+![image](https://github.com/Nilupulie-Hewagamage/Know-Your-Neighborhood/assets/137420146/e3f9740f-1536-4407-9746-c71260e3b612)
+
+
+
+
+
+
+
+
+
